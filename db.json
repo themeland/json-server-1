@@ -21,5 +21,84 @@
                 "text": "exampledomain@domain.com"
             }
         ]
+    },
+    "themeOneFooterSection": {
+        "image": "assets/img/logo/logo.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+        "linkText_1": "Useful Links",
+        "linkText_2": "Product Help",
+        "linkText_3": "Download",
+        "iconList": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "iconClass": "fab fa-vine"
+            }
+        ],
+        "footerList_1": [
+            {
+                "id": 1,
+                "text": "Home"
+            },
+            {
+                "id": 2,
+                "text": "About Us"
+            },
+            {
+                "id": 3,
+                "text": "Services"
+            },
+            {
+                "id": 4,
+                "text": "Blog"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_2": [
+            {
+                "id": 1,
+                "text": "FAQ"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 3,
+                "text": "Support"
+            },
+            {
+                "id": 4,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_3": [
+            {
+                "id": 1,
+                "image": "assets/img/icon/google-play-black.png"
+            },
+            {
+                "id": 2,
+                "image": "assets/img/icon/app-store-black.png"
+            }
+        ]
     }
 }
