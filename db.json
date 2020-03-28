@@ -31,23 +31,23 @@
         "iconList": [
             {
                 "id": 1,
-                "iconClass": "fab fa-facebook-f",
-                "linkClass": "facebook"
+                "link": "facebook",
+                "iconClass": "fab fa-facebook-f"
             },
             {
                 "id": 2,
-                "iconClass": "fab fa-twitter",
-                "linkClass": "twitter"
+                "link": "twitter",
+                "iconClass": "fab fa-twitter"
             },
             {
                 "id": 3,
-                "iconClass": "fab fa-google-plus-g",
-                "linkClass": "google-plus"
+                "link": "google-plus",
+                "iconClass": "fab fa-google-plus-g"
             },
             {
                 "id": 4,
-                "iconClass": "fab fa-vine",
-                "linkClass": "vine"
+                "link": "vine",
+                "iconClass": "fab fa-vine"
             }
         ],
         "footerList_1": [
