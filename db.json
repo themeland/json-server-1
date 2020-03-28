@@ -31,19 +31,23 @@
         "iconList": [
             {
                 "id": 1,
-                "iconClass": "fab fa-facebook-f"
+                "iconClass": "fab fa-facebook-f",
+                "linkClass": "facebook"
             },
             {
                 "id": 2,
-                "iconClass": "fab fa-twitter"
+                "iconClass": "fab fa-twitter",
+                "linkClass": "twitter"
             },
             {
                 "id": 3,
-                "iconClass": "fab fa-google-plus-g"
+                "iconClass": "fab fa-google-plus-g",
+                "linkClass": "google-plus"
             },
             {
                 "id": 4,
-                "iconClass": "fab fa-vine"
+                "iconClass": "fab fa-vine",
+                "linkClass": "vine"
             }
         ],
         "footerList_1": [
