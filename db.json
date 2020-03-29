@@ -103,6 +103,24 @@
                 "id": 2,
                 "image": "assets/img/icon/app-store-black.png"
             }
+        ],
+        "footerList_4": [
+            {
+                "id": 1,
+                "text": "Affiliate program"
+            },
+            {
+                "id": 2,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 3,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 4,
+                "text": "Refund Policy"
+            }
         ]
     },
     "themeOneBlogSection": {
