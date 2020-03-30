@@ -23,7 +23,7 @@
         ]
     },
     "themeOneFooterSection": {
-        "image": "assets/img/logo/logo.png",
+        "image": "/img/logo.png",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
         "linkText_1": "Useful Links",
         "linkText_2": "Product Help",
@@ -97,11 +97,11 @@
         "footerList_3": [
             {
                 "id": 1,
-                "image": "assets/img/icon/google-play-black.png"
+                "image": "/img/google-play-black.png"
             },
             {
                 "id": 2,
-                "image": "assets/img/icon/app-store-black.png"
+                "image": "/img/app-store-black.png"
             }
         ],
         "footerList_4": [
@@ -127,7 +127,7 @@
         "blogData": [
             {
                 "id": 1,
-                "image": "assets/img/blog/blog-1.jpg",
+                "image": "/img/blog-1.jpg",
                 "author": "Anna Sword",
                 "date": "Feb 05, 2019",
                 "title": "How to grow up your business",
@@ -136,7 +136,7 @@
             },
             {
                 "id": 2,
-                "image": "assets/img/blog/blog-2.jpg",
+                "image": "/img/blog-2.jpg",
                 "author": "Jassica William",
                 "date": "Feb 05, 2019",
                 "title": "Planing to manage your clients?",
@@ -145,7 +145,7 @@
             },
             {
                 "id": 3,
-                "image": "assets/img/blog/blog-3.jpg",
+                "image": "/img/blog-3.jpg",
                 "author": "John Doe",
                 "date": "Mar 05, 2019",
                 "title": "Make your successful business with sApp",
@@ -154,7 +154,7 @@
             },
             {
                 "id": 4,
-                "image": "assets/img/blog/blog-4.jpg",
+                "image": "/img/blog-4.jpg",
                 "author": "Anna Sword",
                 "date": "Aug 05, 2019",
                 "title": "How to get more clients?",
@@ -163,7 +163,7 @@
             },
             {
                 "id": 5,
-                "image": "assets/img/blog/blog-5.jpg",
+                "image": "/img/blog-5.jpg",
                 "author": "Anna Sword",
                 "date": "Feb 05, 2019",
                 "title": "Grow up your business successfully",
@@ -172,7 +172,7 @@
             },
             {
                 "id": 6,
-                "image": "assets/img/blog/blog-6.jpg",
+                "image": "/img/blog-6.jpg",
                 "author": "Junaid Hasan",
                 "date": "Jan 12, 2020",
                 "title": "Meet the business magnet of the year",
@@ -181,7 +181,7 @@
             },
             {
                 "id": 7,
-                "image": "assets/img/blog/blog-7.jpg",
+                "image": "/img/blog-7.jpg",
                 "author": "Anna Sword",
                 "date": "Feb 05, 2019",
                 "title": "How to grow up your business",
@@ -190,7 +190,7 @@
             },
             {
                 "id": 8,
-                "image": "assets/img/blog/blog-8.jpg",
+                "image": "/img/blog-8.jpg",
                 "author": "Anna Sword",
                 "date": "Sep 24, 2019",
                 "title": "Planing to manage your clients?",
@@ -199,7 +199,7 @@
             },
             {
                 "id": 9,
-                "image": "assets/img/blog/blog-9.jpg",
+                "image": "/img/blog-9.jpg",
                 "author": "Anna Sword",
                 "date": "Feb 05, 2020",
                 "title": "Make your successful business with sApp",
